@@ -8,16 +8,15 @@
   <li><a href='#badges'>Badges</a></li>
   <li><a href='#nested-list'>Dropdown Lists</a></li>
   <li><a href='#font-awesome'>Using Font Awesome Icons</a></li>
-  <li><a href=''></a></li>
+  <li><a href='#contribute'>Contribute</a></li>
 </ol>
 
 # <span id='intro'>Introduction</span>
 
-This is a simplified outline of a few tips that can be added to a git README.md markdown to spice up your documentation. This works with png, jpg and jpeg files.
-
+This is a simplified outline of a few tips that can be added to a git README.md markdown to spice up your documentation. 
 # <span id='upload'>Uploading an image</span>
 
-Uploading a picture is very simple. Just copy and paste. This works with png, jpg and jpeg files.
+Uploading a picture is very simple. Just copy and paste. This works with png, jpg, and jpeg files.
 
 # <span id='badges'>Badges</span>
 The colors relay different messages<br>
@@ -54,10 +53,10 @@ But can be made open using the <code>open</code> attribute
 
 # <span id='font-awesome'>Font-awesome</span>
 
-Git markdown does not have support for inline css so the font-awesome icons themselves can't be used. However there is a way to work around that:
+Git markdown does not have support for inline CSS so the font-awesome icons themselves can't be used. However, there is a way to work around that:
 
 <ul>
-<li>First download or get a pic of the icon. It should be in a png, jpg or jpeg format.</li>
+<li>First download or get a pic of the icon. It should be in a png, jpg, or jpeg format.</li>
 <li>Upload the picture to the markdown. The link should be placed in a pair of square brackets []</li>
 <li>Add the link to your site in round brackets</li>
 </ul>
@@ -71,15 +70,26 @@ Git markdown does not have support for inline css so the font-awesome icons them
 ```
 [![image](https://user-images.githubusercontent.com/66228179/153211323-6e521f21-b21c-4883-ab46-71b3755d03d7.png)](https://dev.to/babib)
 
-[![twitter](https://user-images.githubusercontent.com/66228179/153213725-4c03dc46-1e33-4928-abb3-0d1cccb06420.png)](https://twitter.com/BTweets47)
 ```
 
 
 [![image](https://user-images.githubusercontent.com/66228179/153211323-6e521f21-b21c-4883-ab46-71b3755d03d7.png)](https://dev.to/babib)
 
+```
+[![twitter](https://user-images.githubusercontent.com/66228179/153213725-4c03dc46-1e33-4928-abb3-0d1cccb06420.png)](https://twitter.com/BTweets47)
+```
+
+
 [![twitter](https://user-images.githubusercontent.com/66228179/153213725-4c03dc46-1e33-4928-abb3-0d1cccb06420.png)](https://twitter.com/BTweets47)
 
+# <span id='contribute'>Contribute</span>
 
+Contributions are always welcome! Please read the <a href=''>contribution</a> guidelines first.
+
+
+
+I have written a detailed <a href='https://dev.to/babib/tips-and-tricks-to-add-to-your-github-readmemd-191i'>blog</a> on how each tip mentioned here can be implemented.
+                                                       Babi 💞 
       
 
 
