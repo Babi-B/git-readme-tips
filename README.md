@@ -84,7 +84,7 @@ Git markdown does not have support for inline CSS so the font-awesome icons them
 
 # <span id='contribute'>Contribute</span>
 
-Contributions are always welcome! Please read the <a href=''>contribution</a> guidelines first.
+Contributions are always welcome! Please read the <a href='https://github.com/Babi-B/markdown-tips/blob/main/CONTRIBUTION.md'>contribution</a> guidelines first.
 
 
 
