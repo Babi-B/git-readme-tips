@@ -1,4 +1,4 @@
-# markdown-tips
+# Git README.md tips
 [![Contributors](https://img.shields.io/badge/contributors-1-brightgreen.svg)](https://github.com/Babi-B/markdown-tips)
 
 # Table of Content
