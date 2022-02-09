@@ -3,7 +3,7 @@
 
 # Table of Content
 <ol>
-  <li><a href='intro'>Introduction</a></li>
+  <li><a href='#intro'>Introduction</a></li>
   <li><a href='#upload'>Uploading an image</a></li>
   <li><a href='#badges'>Badges</a></li>
   <li><a href='#nested-list'>Dropdown Lists</a></li>
@@ -89,7 +89,8 @@ Contributions are always welcome! Please read the <a href='https://github.com/Ba
 
 
 I have written a detailed <a href='https://dev.to/babib/tips-and-tricks-to-add-to-your-github-readmemd-191i'>blog</a> on how each tip mentioned here can be implemented.
-                                                       Babi 💞 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Babi 💞 
       
 
 
