@@ -8,6 +8,7 @@
   <li><a href='#badges'>Badges</a></li>
   <li><a href='#nested-list'>Dropdown Lists</a></li>
   <li><a href='#font-awesome'>Using Font Awesome Icons</a></li>
+  <li><a href='#styling-text'>styling text</a></li>
   <li><a href='#contribute'>Contribute</a></li>
 </ol>
 
@@ -81,6 +82,35 @@ Git markdown does not have support for inline CSS so the font-awesome icons them
 
 
 [![twitter](https://user-images.githubusercontent.com/66228179/153213725-4c03dc46-1e33-4928-abb3-0d1cccb06420.png)](https://twitter.com/BTweets47)
+
+# <span id='styling-text'>Styling Text</span>
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+
+1. **This text would be Bold**
+
+```
+**This text would be Bold**
+```
+2. *This text would be Italic* 
+```
+* This text would be Italic* 
+```
+3. ~~This text would be strikethrough~~
+```
+~~This text would be strikethrough~~
+```
+4. **Bold with *italic* within**
+```
+**Bold with *italic* within**
+```
+5. ***All Bold and italic***
+```
+***All Bold and italic***
+```
+6. > Quoting Text
+```
+> Quoting Text
+```
 
 # <span id='contribute'>Contribute</span>
 
