@@ -107,9 +107,9 @@ You can indicate emphasis with bold, italic, strikethrough, subscript, or supers
 ```
 ***All Bold and italic***
 ```
-6. > Quoting Text
+6. > Quoting Text: This is mainly used when You want to lay more emphasis on a paragraph or block in your text
 ```
-> Quoting Text
+> Quoting Text: This is mainly used when You want to lay more emphasis on a paragraph or block in your text
 ```
 
 # <span id='contribute'>Contribute</span>
