@@ -89,7 +89,6 @@ Git markdown does not have support for inline CSS so the font-awesome icons them
 You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
 
 1. **This text would be Bold**
-
 ```
 **This text would be Bold**
 ```
@@ -128,7 +127,6 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 - [x] Make changes to the repository
 - [ ] Create a pull request
 ```
-
 
 # <span id='contribute'>Contribute</span>
 
