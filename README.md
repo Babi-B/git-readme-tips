@@ -8,7 +8,10 @@
   <li><a href='#badges'>Badges</a></li>
   <li><a href='#nested-list'>Dropdown Lists</a></li>
   <li><a href='#font-awesome'>Using Font Awesome Icons</a></li>
+  <li><a href='#styling-text'>Styling Text</a></li>
+  <li><a href='#task-lists'>Task Lists</a></li>
   <li><a href='#contribute'>Contribute</a></li>
+  
 </ol>
 
 # <span id='intro'>Introduction</span>
@@ -81,6 +84,49 @@ Git markdown does not have support for inline CSS so the font-awesome icons them
 
 
 [![twitter](https://user-images.githubusercontent.com/66228179/153213725-4c03dc46-1e33-4928-abb3-0d1cccb06420.png)](https://twitter.com/BTweets47)
+
+# <span id='styling-text'>Styling Text</span>
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+
+1. **This text would be Bold**
+```
+**This text would be Bold**
+```
+2. *This text would be Italic* 
+```
+* This text would be Italic* 
+```
+3. ~~This text would be strikethrough~~
+```
+~~This text would be strikethrough~~
+```
+4. **Bold with *italic* within**
+```
+**Bold with *italic* within**
+```
+5. ***All Bold and italic***
+```
+***All Bold and italic***
+```
+6. > Quoting Text: This is mainly used when You want to lay more emphasis on a paragraph or block in your text
+```
+> Quoting Text: This is mainly used when You want to lay more emphasis on a paragraph or block in your text
+```
+
+# <span id='task-lists'>Task Lists</span>
+To create a task list, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
+
+- [x] Star the repository
+- [x] Fork the repository
+- [x] Make changes to the repository
+- [ ] Create a pull request
+
+```
+- [x] Star the repository
+- [x] Fork the repository
+- [x] Make changes to the repository
+- [ ] Create a pull request
+```
 
 # <span id='contribute'>Contribute</span>
 
